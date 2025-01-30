@@ -11,7 +11,3 @@ Hello World!
 !@#$%^ &*()-  QWERTY
 # Output:
 3
-# Input:
-Hi                                Hi again
-# Output:
-3
