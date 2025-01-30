@@ -3,15 +3,15 @@
 This C program counts the number of ASCII character sequences separated by a space or multiple space characters. A maximum of 1024 characters is allowed.
 
 Examples:
-#Input:
+# Input:
 Hello World!
-#Output:
+# Output:
 2
-#Input:
+# Input:
 !@#$%^ &*()-  QWERTY
-#Output:
+# Output:
 3
-#Input:
+# Input:
 Hi                                Hi again
-#Output:
+# Output:
 3
